@@ -1,0 +1,764 @@
+[
+    {
+        "item_no": 1,
+        "item_name": "Sofa",
+        "item_desc": "1 tan colored fabric sofa visible in the hallway",
+        "room_loc": "Hallway"
+    },
+    {
+        "item_no": 2,
+        "item_name": "Sofa",
+        "item_desc": "A large beige sectional sofa with brown and tan throw pillows, appears to be made of fabric",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 3,
+        "item_name": "Ceiling fan",
+        "item_desc": "A ceiling mounted fan with multiple blades, likely metal",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 4,
+        "item_name": "Light fixtures",
+        "item_desc": "Multiple recessed light fixtures in the ceiling, likely LED or halogen bulbs",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 5,
+        "item_name": "Sofa",
+        "item_desc": "A large white fabric sofa, seating 3-4 people",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 6,
+        "item_name": "Armchairs",
+        "item_desc": "Two green upholstered armchairs",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 7,
+        "item_name": "Coffee table",
+        "item_desc": "A rectangular wooden coffee table with a glass top",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 8,
+        "item_name": "TV stand",
+        "item_desc": "A low wooden TV stand or media console",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 9,
+        "item_name": "Artwork",
+        "item_desc": "A large abstract artwork hanging on the wall",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 10,
+        "item_name": "Decorative vase",
+        "item_desc": "A tall decorative vase on the coffee table",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 11,
+        "item_name": "Throw pillows",
+        "item_desc": "Several decorative throw pillows on the sofa, brown and yellow colors",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 12,
+        "item_name": "Sofa",
+        "item_desc": "A large light gray sectional sofa",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 13,
+        "item_name": "Coffee table",
+        "item_desc": "A rectangular light wood coffee table with a glass top",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 14,
+        "item_name": "Armchairs",
+        "item_desc": "Two olive green upholstered armchairs",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 15,
+        "item_name": "Side table",
+        "item_desc": "A small round light wood side table",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 16,
+        "item_name": "Decor items",
+        "item_desc": "A vase, a lamp, and a few small decorative items on the side table",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 17,
+        "item_name": "Wall art",
+        "item_desc": "A large abstract wall hanging with brown and beige stripes",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 18,
+        "item_name": "TV stand",
+        "item_desc": "A low light wood TV stand or media console",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 19,
+        "item_name": "Throw pillows",
+        "item_desc": "Several brown and yellow decorative throw pillows on the sofa",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 20,
+        "item_name": "Wooden coffee table",
+        "item_desc": "A large rectangular wooden coffee table in the center of the room",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 21,
+        "item_name": "Sofa",
+        "item_desc": "A large white fabric sofa with yellow and brown patterned cushions",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 22,
+        "item_name": "Decorative vase",
+        "item_desc": "A small green glass decorative vase on the coffee table",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 23,
+        "item_name": "Decorative figurine",
+        "item_desc": "A small brown decorative figurine on the coffee table",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 24,
+        "item_name": "TV stand",
+        "item_desc": "A long wooden TV stand against the wall with shelves",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 25,
+        "item_name": "Plush toy",
+        "item_desc": "A small yellow plush toy in the shape of a bird, sitting on a wooden cabinet",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 26,
+        "item_name": "Wooden cabinet",
+        "item_desc": "A light wood cabinet with shelves and drawers for storage, located against the wall",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 27,
+        "item_name": "Potted plant",
+        "item_desc": "A large green potted plant next to the wooden cabinet",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 28,
+        "item_name": "Armchair",
+        "item_desc": "A large green upholstered armchair in the center of the room",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 29,
+        "item_name": "Coffee table",
+        "item_desc": "A light wood coffee table in front of the armchair",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 30,
+        "item_name": "Framed artwork",
+        "item_desc": "A large framed abstract artwork with pink and brown stripes",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 31,
+        "item_name": "Decorative pumpkins",
+        "item_desc": "Two small decorative yellow pumpkins",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 32,
+        "item_name": "TV stand",
+        "item_desc": "A long wooden TV stand or media console",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 33,
+        "item_name": "Potted plant",
+        "item_desc": "A tall potted plant or faux plant",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 34,
+        "item_name": "Armchairs",
+        "item_desc": "Two large olive green armchairs or sofas",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 35,
+        "item_name": "Coffee table",
+        "item_desc": "A round glass-top coffee table",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 36,
+        "item_name": "Abstract painting",
+        "item_desc": "A large abstract painting with brown, tan and gray geometric patterns",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 37,
+        "item_name": "Floor lamp",
+        "item_desc": "A tall arched metal floor lamp with a single light bulb",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 38,
+        "item_name": "Potted plant",
+        "item_desc": "A small potted plant with green leaves",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 39,
+        "item_name": "Cabinet",
+        "item_desc": "A low wooden cabinet or sideboard with closed doors",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 40,
+        "item_name": "Decorative pumpkin",
+        "item_desc": "A small golden decorative pumpkin figurine",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 41,
+        "item_name": "Wall mirror",
+        "item_desc": "A large arched black metal framed wall mirror",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 42,
+        "item_name": "Potted plant",
+        "item_desc": "A small potted plant with green leaves",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 43,
+        "item_name": "Wooden bench",
+        "item_desc": "A light brown wooden bench or entryway table",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 44,
+        "item_name": "Wall art",
+        "item_desc": "A framed wall art or picture hanging on the wall",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 45,
+        "item_name": "Curtains",
+        "item_desc": "White sheer curtains covering a window",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 46,
+        "item_name": "Lamp",
+        "item_desc": "Small table lamp on a side table",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 47,
+        "item_name": "Plant",
+        "item_desc": "Small potted plant, likely artificial",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 48,
+        "item_name": "Artwork",
+        "item_desc": "Framed artwork or picture hanging on the wall",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 49,
+        "item_name": "Server rack",
+        "item_desc": "A large black metal server rack with multiple shelves holding computer equipment and cables",
+        "room_loc": "Server room"
+    },
+    {
+        "item_no": 50,
+        "item_name": "Office chair",
+        "item_desc": "A green ergonomic office chair on wheels",
+        "room_loc": "Server room"
+    },
+    {
+        "item_no": 51,
+        "item_name": "Networking equipment",
+        "item_desc": "Various black networking devices like routers, switches, and modems on the server rack shelves",
+        "room_loc": "Server room"
+    },
+    {
+        "item_no": 52,
+        "item_name": "Broom",
+        "item_desc": "An orange plastic broom for cleaning",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 53,
+        "item_name": "Cleaning supplies",
+        "item_desc": "Various bottles and containers of cleaning products on shelves, approximately 10 items",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 54,
+        "item_name": "Storage bins",
+        "item_desc": "Several plastic storage bins on shelves, around 5 bins",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 55,
+        "item_name": "Mop",
+        "item_desc": "A blue mop handle visible leaning against shelves",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 56,
+        "item_name": "Mop",
+        "item_desc": "An orange plastic mop for cleaning floors",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 57,
+        "item_name": "Cleaning supplies",
+        "item_desc": "Multiple yellow bottles of cleaning solution, likely a brand like Fabuloso",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 58,
+        "item_name": "Sponges",
+        "item_desc": "Orange sponges for cleaning surfaces",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 59,
+        "item_name": "Cleaning rags",
+        "item_desc": "Blue and white rags or towels for cleaning",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 60,
+        "item_name": "Brooms",
+        "item_desc": "Multiple blue and purple brooms or brushes for cleaning",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 61,
+        "item_name": "Storage shelves",
+        "item_desc": "White metal shelving units for storing cleaning supplies",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 62,
+        "item_name": "Server rack",
+        "item_desc": "A large metal rack with multiple shelves holding computer servers and networking equipment, including black server towers, beige server towers labeled 'One', and yellow network switches.",
+        "room_loc": "Server room"
+    },
+    {
+        "item_no": 63,
+        "item_name": "UPS battery backup",
+        "item_desc": "An orange uninterruptible power supply (UPS) battery backup unit on the bottom shelf.",
+        "room_loc": "Server room"
+    },
+    {
+        "item_no": 64,
+        "item_name": "Liquid container",
+        "item_desc": "A white plastic liquid container, likely for cooling or cleaning the server equipment.",
+        "room_loc": "Server room"
+    },
+    {
+        "item_no": 65,
+        "item_name": "Books",
+        "item_desc": "Multiple black and yellow books, likely textbooks or reference books, stacked on a shelf.",
+        "room_loc": "Office or Study Room"
+    },
+    {
+        "item_no": 66,
+        "item_name": "Computer Speakers",
+        "item_desc": "A pair of black computer speakers visible on the shelf.",
+        "room_loc": "Office or Study Room"
+    },
+    {
+        "item_no": 67,
+        "item_name": "Tablet or E-Reader",
+        "item_desc": "An orange tablet or e-reader device on the desk.",
+        "room_loc": "Office or Study Room"
+    },
+    {
+        "item_no": 68,
+        "item_name": "Cleaning Supplies",
+        "item_desc": "A bottle of cleaning solution visible on the desk.",
+        "room_loc": "Office or Study Room"
+    },
+    {
+        "item_no": 69,
+        "item_name": "Books",
+        "item_desc": "Approximately 30 copies of the book titled 'Charlie Walks' by Daniel Rooney, in black and yellow covers.",
+        "room_loc": "Office"
+    },
+    {
+        "item_no": 70,
+        "item_name": "Stapler",
+        "item_desc": "1 orange and black Sandsbury stapler",
+        "room_loc": "Office"
+    },
+    {
+        "item_no": 71,
+        "item_name": "Life jacket",
+        "item_desc": "An orange life jacket",
+        "room_loc": "Garage"
+    },
+    {
+        "item_no": 72,
+        "item_name": "Shelving units",
+        "item_desc": "Several white metal shelving units",
+        "room_loc": "Garage"
+    },
+    {
+        "item_no": 73,
+        "item_name": "Storage bins",
+        "item_desc": "Multiple yellow and black plastic storage bins on shelves",
+        "room_loc": "Garage"
+    },
+    {
+        "item_no": 74,
+        "item_name": "Extension cords",
+        "item_desc": "Orange and black extension cords",
+        "room_loc": "Garage"
+    },
+    {
+        "item_no": 75,
+        "item_name": "Broom",
+        "item_desc": "1 orange plastic broom",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 76,
+        "item_name": "Mop",
+        "item_desc": "1 orange plastic mop",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 77,
+        "item_name": "Cleaning supplies",
+        "item_desc": "Multiple bottles and containers of various cleaning supplies on shelves",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 78,
+        "item_name": "Storage bins",
+        "item_desc": "Several black plastic storage bins on shelves",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 79,
+        "item_name": "Shelving unit",
+        "item_desc": "1 white metal shelving unit holding various items",
+        "room_loc": "Utility room"
+    },
+    {
+        "item_no": 80,
+        "item_name": "Sofa",
+        "item_desc": "A large beige sectional sofa with multiple cushions",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 81,
+        "item_name": "Armchair",
+        "item_desc": "A green upholstered armchair",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 82,
+        "item_name": "Coffee table",
+        "item_desc": "A wooden coffee table with a glass top",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 83,
+        "item_name": "Throw pillows",
+        "item_desc": "Multiple yellow and green decorative throw pillows on the sofa",
+        "room_loc": "Living room"
+    },
+    {
+        "item_no": 84,
+        "item_name": "Sunglasses",
+        "item_desc": "A pair of black sunglasses on the floor",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 85,
+        "item_name": "Kitchen Appliances",
+        "item_desc": "Multiple stainless steel kitchen appliances including an oven and microwave visible through the window",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 86,
+        "item_name": "Refrigerator",
+        "item_desc": "A stainless steel side-by-side refrigerator, approximately 6 feet tall",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 87,
+        "item_name": "Kitchen cabinets",
+        "item_desc": "A set of dark brown wooden cabinets lining the kitchen walls, with approximately 10 cabinet doors visible",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 88,
+        "item_name": "Countertop",
+        "item_desc": "A long light-colored stone countertop spanning the length of the kitchen",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 89,
+        "item_name": "Vase",
+        "item_desc": "A small ceramic vase with dried flowers on the countertop",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 90,
+        "item_name": "Fruit bowl",
+        "item_desc": "A woven basket with red apples or tomatoes on the countertop",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 91,
+        "item_name": "Magazines",
+        "item_desc": "Two magazines or catalogs lying open on the countertop",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 92,
+        "item_name": "Chair",
+        "item_desc": "A black leather chair or stool visible in the corner of the kitchen",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 93,
+        "item_name": "Dining table",
+        "item_desc": "A large rectangular wooden dining table with 6 brown upholstered chairs around it",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 94,
+        "item_name": "Stuffed animal",
+        "item_desc": "A small white stuffed animal figure on the dining table",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 95,
+        "item_name": "Stools",
+        "item_desc": "2 small wooden stools or side tables near the dining table",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 96,
+        "item_name": "Kitchen Counter",
+        "item_desc": "A long white kitchen counter with black cabinets underneath",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 97,
+        "item_name": "Fruit Bowl",
+        "item_desc": "A wooden bowl containing several red apples",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 98,
+        "item_name": "Cutting Board",
+        "item_desc": "A wooden cutting board with some bread or pastries on it",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 99,
+        "item_name": "Stools",
+        "item_desc": "3 wooden stools with metal legs",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 100,
+        "item_name": "Dining Table",
+        "item_desc": "A large wooden dining table with grey upholstered chairs",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 101,
+        "item_name": "Decor Items",
+        "item_desc": "Several decorative items like vases and plants on the counter",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 102,
+        "item_name": "Wooden dining table",
+        "item_desc": "A large rectangular wooden dining table with carved designs on the surface, seating 6 people",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 103,
+        "item_name": "Dining chairs",
+        "item_desc": "6 brown leather upholstered dining chairs surrounding the table",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 104,
+        "item_name": "Decorative figurine",
+        "item_desc": "A small white decorative figurine in the shape of a person on the dining table",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 105,
+        "item_name": "Potted plant",
+        "item_desc": "A medium sized potted plant with green leaves on the dining table",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 106,
+        "item_name": "Dining table",
+        "item_desc": "1 large wooden dining table",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 107,
+        "item_name": "Dining chairs",
+        "item_desc": "4 tan upholstered dining chairs",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 108,
+        "item_name": "Potted plant",
+        "item_desc": "1 small potted plant in a white planter",
+        "room_loc": "Dining room"
+    },
+    {
+        "item_no": 109,
+        "item_name": "Outdoor chairs",
+        "item_desc": "2 white outdoor chairs visible through sliding glass door",
+        "room_loc": "Patio"
+    },
+    {
+        "item_no": 110,
+        "item_name": "Outdoor table",
+        "item_desc": "1 small outdoor table visible through sliding glass door",
+        "room_loc": "Patio"
+    },
+    {
+        "item_no": 111,
+        "item_name": "Dining table",
+        "item_desc": "A large wooden dining table with 6 brown leather chairs around it.",
+        "room_loc": "Kitchen/Dining Room"
+    },
+    {
+        "item_no": 112,
+        "item_name": "Vase",
+        "item_desc": "A clear glass vase on the dining table.",
+        "room_loc": "Kitchen/Dining Room"
+    },
+    {
+        "item_no": 113,
+        "item_name": "Kitchen appliances",
+        "item_desc": "Multiple stainless steel kitchen appliances including an oven and microwave visible in the background.",
+        "room_loc": "Kitchen/Dining Room"
+    },
+    {
+        "item_no": 114,
+        "item_name": "Potted plant",
+        "item_desc": "A small potted plant on a side table or counter.",
+        "room_loc": "Kitchen/Dining Room"
+    },
+    {
+        "item_no": 115,
+        "item_name": "Refrigerator",
+        "item_desc": "A large stainless steel side-by-side refrigerator, likely a high-end brand",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 116,
+        "item_name": "Kitchen Cabinets",
+        "item_desc": "A set of dark wood kitchen cabinets with multiple drawers and doors",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 117,
+        "item_name": "Oven/Stove",
+        "item_desc": "A built-in stainless steel oven and stovetop unit",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 118,
+        "item_name": "Sofa",
+        "item_desc": "A grey sofa visible in the background living room area",
+        "room_loc": "Living Room"
+    },
+    {
+        "item_no": 119,
+        "item_name": "Decor Items",
+        "item_desc": "A few small decorative items on the kitchen counters",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 120,
+        "item_name": "Kitchen Cabinets",
+        "item_desc": "Multiple wooden kitchen cabinets, color appears to be dark brown or black",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 121,
+        "item_name": "Kitchen Countertop",
+        "item_desc": "A large kitchen countertop, color appears to be light tan or beige",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 122,
+        "item_name": "Dishwasher",
+        "item_desc": "A stainless steel Miele brand dishwasher",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 123,
+        "item_name": "Microwave oven",
+        "item_desc": "A stainless steel built-in microwave oven",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 124,
+        "item_name": "Double oven",
+        "item_desc": "A stainless steel double wall oven",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 125,
+        "item_name": "Coffee maker",
+        "item_desc": "A black coffee maker",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 126,
+        "item_name": "Vases",
+        "item_desc": "Two white ceramic vases",
+        "room_loc": "Kitchen"
+    },
+    {
+        "item_no": 127,
+        "item_name": "Juicer",
+        "item_desc": "A black juicer appliance",
+        "room_loc": "Kitchen"
+    }
+]
