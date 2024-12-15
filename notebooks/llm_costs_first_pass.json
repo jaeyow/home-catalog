@@ -1,0 +1,212 @@
+[
+    {
+        "image_frame": "frame_at_0.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 90,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.007167
+    },
+    {
+        "image_frame": "frame_at_3.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 227,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009222
+    },
+    {
+        "image_frame": "frame_at_6.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 446,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.012507
+    },
+    {
+        "image_frame": "frame_at_9.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 505,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.013392
+    },
+    {
+        "image_frame": "frame_at_12.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 340,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010917
+    },
+    {
+        "image_frame": "frame_at_15.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 348,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.011037
+    },
+    {
+        "image_frame": "frame_at_18.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 345,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010992
+    },
+    {
+        "image_frame": "frame_at_21.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 299,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010302
+    },
+    {
+        "image_frame": "frame_at_24.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 265,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009792
+    },
+    {
+        "image_frame": "frame_at_27.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 232,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009297
+    },
+    {
+        "image_frame": "frame_at_30.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 203,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.008862
+    },
+    {
+        "image_frame": "frame_at_33.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 277,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009972
+    },
+    {
+        "image_frame": "frame_at_36.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 391,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.011682
+    },
+    {
+        "image_frame": "frame_at_39.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 246,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009507
+    },
+    {
+        "image_frame": "frame_at_42.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 285,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010092
+    },
+    {
+        "image_frame": "frame_at_45.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 153,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.008112
+    },
+    {
+        "image_frame": "frame_at_48.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 229,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009252
+    },
+    {
+        "image_frame": "frame_at_51.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 291,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010182
+    },
+    {
+        "image_frame": "frame_at_54.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 245,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009492
+    },
+    {
+        "image_frame": "frame_at_57.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 148,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.008037
+    },
+    {
+        "image_frame": "frame_at_60.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 477,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.012972
+    },
+    {
+        "image_frame": "frame_at_63.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 225,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009192
+    },
+    {
+        "image_frame": "frame_at_66.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 344,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010977
+    },
+    {
+        "image_frame": "frame_at_69.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 274,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009927
+    },
+    {
+        "image_frame": "frame_at_72.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 298,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010287
+    },
+    {
+        "image_frame": "frame_at_75.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 269,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.009852
+    },
+    {
+        "image_frame": "frame_at_78.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 323,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010662
+    },
+    {
+        "image_frame": "frame_at_81.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 152,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.008097
+    },
+    {
+        "image_frame": "frame_at_84.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 91,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.007182
+    },
+    {
+        "image_frame": "frame_at_87.00_seconds.png",
+        "input_tokens": 1939,
+        "output_tokens": 279,
+        "model": "claude-3-sonnet-20240229",
+        "total_cost": 0.010002
+    }
+]

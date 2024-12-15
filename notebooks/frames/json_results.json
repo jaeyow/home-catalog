@@ -1,0 +1,1130 @@
+[
+    {
+        "timestamp": 0.0,
+        "frame": "frames/frame_at_0.00_seconds.png",
+        "audio": "frames/audio_at_0.00_seconds.wav",
+        "transcription": "ok we're going to test Gemini's"
+    },
+    {
+        "timestamp": 3.0,
+        "frame": "frames/frame_at_3.00_seconds.png",
+        "audio": "frames/audio_at_3.00_seconds.wav",
+        "transcription": "one text Window by seeing if it can wreck"
+    },
+    {
+        "timestamp": 6.0,
+        "frame": "frames/frame_at_6.00_seconds.png",
+        "audio": "frames/audio_at_6.00_seconds.wav",
+        "transcription": "all of the furniture in the house so"
+    },
+    {
+        "timestamp": 9.0,
+        "frame": "frames/frame_at_9.00_seconds.png",
+        "audio": "frames/audio_at_9.00_seconds.wav",
+        "transcription": "we have the lounge room we have a couch"
+    },
+    {
+        "timestamp": 12.0,
+        "frame": "frames/frame_at_12.00_seconds.png",
+        "audio": "frames/audio_at_12.00_seconds.wav",
+        "transcription": "rug table"
+    },
+    {
+        "timestamp": 15.0,
+        "frame": "frames/frame_at_15.00_seconds.png",
+        "audio": "frames/audio_at_15.00_seconds.wav",
+        "transcription": "two of the same swivel chairs"
+    },
+    {
+        "timestamp": 18.0,
+        "frame": "frames/frame_at_18.00_seconds.png",
+        "audio": "frames/audio_at_18.00_seconds.wav",
+        "transcription": "a book or a TV cabinet type thing"
+    },
+    {
+        "timestamp": 21.0,
+        "frame": "frames/frame_at_21.00_seconds.png",
+        "audio": "frames/audio_at_21.00_seconds.wav",
+        "transcription": "painting there have a"
+    },
+    {
+        "timestamp": 24.0,
+        "frame": "frames/frame_at_24.00_seconds.png",
+        "audio": "frames/audio_at_24.00_seconds.wav",
+        "transcription": "in the corner with a lamp"
+    },
+    {
+        "timestamp": 27.0,
+        "frame": "frames/frame_at_27.00_seconds.png",
+        "audio": "frames/audio_at_27.00_seconds.wav",
+        "transcription": "I want to track all of these pieces of inventory"
+    },
+    {
+        "timestamp": 30.0,
+        "frame": "frames/frame_at_30.00_seconds.png",
+        "audio": "frames/audio_at_30.00_seconds.wav",
+        "transcription": "is the closet there have a few items"
+    },
+    {
+        "timestamp": 33.0,
+        "frame": "frames/frame_at_33.00_seconds.png",
+        "audio": "frames/audio_at_33.00_seconds.wav",
+        "transcription": "pause it but not too many the vacuum cleaners in"
+    },
+    {
+        "timestamp": 36.0,
+        "frame": "frames/frame_at_36.00_seconds.png",
+        "audio": "frames/audio_at_36.00_seconds.wav",
+        "transcription": "what was it and then these are all just box"
+    },
+    {
+        "timestamp": 39.0,
+        "frame": "frames/frame_at_39.00_seconds.png",
+        "audio": "frames/audio_at_39.00_seconds.wav",
+        "transcription": "of stuff Sonos speaker box"
+    },
+    {
+        "timestamp": 42.0,
+        "frame": "frames/frame_at_42.00_seconds.png",
+        "audio": "frames/audio_at_42.00_seconds.wav",
+        "transcription": "books Charlie walk"
+    },
+    {
+        "timestamp": 45.0,
+        "frame": "frames/frame_at_45.00_seconds.png",
+        "audio": "frames/audio_at_45.00_seconds.wav",
+        "transcription": "play Daniel Burke hard drives"
+    },
+    {
+        "timestamp": 48.0,
+        "frame": "frames/frame_at_48.00_seconds.png",
+        "audio": "frames/audio_at_48.00_seconds.wav",
+        "transcription": "not too much furniture in the closet"
+    },
+    {
+        "timestamp": 51.0,
+        "frame": "frames/frame_at_51.00_seconds.png",
+        "audio": "frames/audio_at_51.00_seconds.wav",
+        "transcription": "not too much furniture in the closet"
+    },
+    {
+        "timestamp": 54.0,
+        "frame": "frames/frame_at_54.00_seconds.png",
+        "audio": "frames/audio_at_54.00_seconds.wav",
+        "transcription": "we can get all of this inventory tracked for"
+    },
+    {
+        "timestamp": 57.0,
+        "frame": "frames/frame_at_57.00_seconds.png",
+        "audio": "frames/audio_at_57.00_seconds.wav",
+        "transcription": "our home insurance policy is a"
+    },
+    {
+        "timestamp": 60.0,
+        "frame": "frames/frame_at_60.00_seconds.png",
+        "audio": "frames/audio_at_60.00_seconds.wav",
+        "transcription": "then we'll go through that in a second this is the dining"
+    },
+    {
+        "timestamp": 63.0,
+        "frame": "frames/frame_at_63.00_seconds.png",
+        "audio": "frames/audio_at_63.00_seconds.wav",
+        "transcription": "so you want to track three"
+    },
+    {
+        "timestamp": 66.0,
+        "frame": "frames/frame_at_66.00_seconds.png",
+        "audio": "frames/audio_at_66.00_seconds.wav",
+        "transcription": "dining table with"
+    },
+    {
+        "timestamp": 69.0,
+        "frame": "frames/frame_at_69.00_seconds.png",
+        "audio": "frames/audio_at_69.00_seconds.wav",
+        "transcription": "shares and then there's a pot"
+    },
+    {
+        "timestamp": 72.0,
+        "frame": "frames/frame_at_72.00_seconds.png",
+        "audio": "frames/audio_at_72.00_seconds.wav",
+        "transcription": "over there big mirror in the"
+    },
+    {
+        "timestamp": 75.0,
+        "frame": "frames/frame_at_75.00_seconds.png",
+        "audio": "frames/audio_at_75.00_seconds.wav",
+        "transcription": "we come to the kitchen"
+    },
+    {
+        "timestamp": 78.0,
+        "frame": "frames/frame_at_78.00_seconds.png",
+        "audio": "frames/audio_at_78.00_seconds.wav",
+        "transcription": "they've got a double door fridge"
+    },
+    {
+        "timestamp": 81.0,
+        "frame": "frames/frame_at_81.00_seconds.png",
+        "audio": "frames/audio_at_81.00_seconds.wav",
+        "transcription": "Danielle"
+    },
+    {
+        "timestamp": 84.0,
+        "frame": "frames/frame_at_84.00_seconds.png",
+        "audio": "frames/audio_at_84.00_seconds.wav",
+        "transcription": "washer mic"
+    },
+    {
+        "timestamp": 87.0,
+        "frame": "frames/frame_at_87.00_seconds.png",
+        "audio": "frames/audio_at_87.00_seconds.wav",
+        "transcription": "kettle coffee machine"
+    },
+    {
+        "timestamp": 90.0,
+        "frame": "frames/frame_at_90.00_seconds.png",
+        "audio": "frames/audio_at_90.00_seconds.wav",
+        "transcription": "two-storey oven"
+    },
+    {
+        "timestamp": 93.0,
+        "frame": "frames/frame_at_93.00_seconds.png",
+        "audio": "frames/audio_at_93.00_seconds.wav",
+        "transcription": "then if we come into the"
+    },
+    {
+        "timestamp": 96.0,
+        "frame": "frames/frame_at_96.00_seconds.png",
+        "audio": "frames/audio_at_96.00_seconds.wav",
+        "transcription": "country / wash clothes"
+    },
+    {
+        "timestamp": 99.0,
+        "frame": "frames/frame_at_99.00_seconds.png",
+        "audio": "frames/audio_at_99.00_seconds.wav",
+        "transcription": "we have a water filter a bread machine"
+    },
+    {
+        "timestamp": 102.0,
+        "frame": "frames/frame_at_102.00_seconds.png",
+        "audio": "frames/audio_at_102.00_seconds.wav",
+        "transcription": "and a higher"
+    },
+    {
+        "timestamp": 105.0,
+        "frame": "frames/frame_at_105.00_seconds.png",
+        "audio": "frames/audio_at_105.00_seconds.wav",
+        "transcription": "washing machine"
+    },
+    {
+        "timestamp": 108.0,
+        "frame": "frames/frame_at_108.00_seconds.png",
+        "audio": "frames/audio_at_108.00_seconds.wav",
+        "transcription": "washing machine"
+    },
+    {
+        "timestamp": 111.0,
+        "frame": "frames/frame_at_111.00_seconds.png",
+        "audio": "frames/audio_at_111.00_seconds.wav",
+        "transcription": "keep track of their so then"
+    },
+    {
+        "timestamp": 114.0,
+        "frame": "frames/frame_at_114.00_seconds.png",
+        "audio": "frames/audio_at_114.00_seconds.wav",
+        "transcription": "come upstairs"
+    },
+    {
+        "timestamp": 117.0,
+        "frame": "frames/frame_at_117.00_seconds.png",
+        "audio": "frames/audio_at_117.00_seconds.wav",
+        "transcription": "go back there's"
+    },
+    {
+        "timestamp": 120.0,
+        "frame": "frames/frame_at_120.00_seconds.png",
+        "audio": "frames/audio_at_120.00_seconds.wav",
+        "transcription": "you have the lounge room"
+    },
+    {
+        "timestamp": 123.0,
+        "frame": "frames/frame_at_123.00_seconds.png",
+        "audio": "frames/audio_at_123.00_seconds.wav",
+        "transcription": "we'll come upstairs"
+    },
+    {
+        "timestamp": 126.0,
+        "frame": "frames/frame_at_126.00_seconds.png",
+        "audio": "frames/audio_at_126.00_seconds.wav",
+        "transcription": "we'll come upstairs"
+    },
+    {
+        "timestamp": 129.0,
+        "frame": "frames/frame_at_129.00_seconds.png",
+        "audio": "frames/audio_at_129.00_seconds.wav",
+        "transcription": "so the house has four bedrooms"
+    },
+    {
+        "timestamp": 132.0,
+        "frame": "frames/frame_at_132.00_seconds.png",
+        "audio": "frames/audio_at_132.00_seconds.wav",
+        "transcription": "we want to keep inventory of"
+    },
+    {
+        "timestamp": 135.0,
+        "frame": "frames/frame_at_135.00_seconds.png",
+        "audio": "frames/audio_at_135.00_seconds.wav",
+        "transcription": "kids bedroom will call this front room"
+    },
+    {
+        "timestamp": 138.0,
+        "frame": "frames/frame_at_138.00_seconds.png",
+        "audio": "frames/audio_at_138.00_seconds.wav",
+        "transcription": "number one set the front of the house"
+    },
+    {
+        "timestamp": 141.0,
+        "frame": "frames/frame_at_141.00_seconds.png",
+        "audio": "frames/audio_at_141.00_seconds.wav",
+        "transcription": "so room number one I want to keep track of"
+    },
+    {
+        "timestamp": 144.0,
+        "frame": "frames/frame_at_144.00_seconds.png",
+        "audio": "frames/audio_at_144.00_seconds.wav",
+        "transcription": "queen bed and then there's two"
+    },
+    {
+        "timestamp": 147.0,
+        "frame": "frames/frame_at_147.00_seconds.png",
+        "audio": "frames/audio_at_147.00_seconds.wav",
+        "transcription": "of the same bedside tables"
+    },
+    {
+        "timestamp": 150.0,
+        "frame": "frames/frame_at_150.00_seconds.png",
+        "audio": "frames/audio_at_150.00_seconds.wav",
+        "transcription": "with two of the same lamps"
+    },
+    {
+        "timestamp": 153.0,
+        "frame": "frames/frame_at_153.00_seconds.png",
+        "audio": "frames/audio_at_153.00_seconds.wav",
+        "transcription": "photo frame on the wall and"
+    },
+    {
+        "timestamp": 156.0,
+        "frame": "frames/frame_at_156.00_seconds.png",
+        "audio": "frames/audio_at_156.00_seconds.wav",
+        "transcription": "bedroom one so we have a bedside table two"
+    },
+    {
+        "timestamp": 159.0,
+        "frame": "frames/frame_at_159.00_seconds.png",
+        "audio": "frames/audio_at_159.00_seconds.wav",
+        "transcription": "today's lamps"
+    },
+    {
+        "timestamp": 162.0,
+        "frame": "frames/frame_at_162.00_seconds.png",
+        "audio": "frames/audio_at_162.00_seconds.wav",
+        "transcription": "we have nothing in there"
+    },
+    {
+        "timestamp": 165.0,
+        "frame": "frames/frame_at_165.00_seconds.png",
+        "audio": "frames/audio_at_165.00_seconds.wav",
+        "transcription": "lemon closet or the front linen clothes"
+    },
+    {
+        "timestamp": 168.0,
+        "frame": "frames/frame_at_168.00_seconds.png",
+        "audio": "frames/audio_at_168.00_seconds.wav",
+        "transcription": "is linen closet one nothing in that"
+    },
+    {
+        "timestamp": 171.0,
+        "frame": "frames/frame_at_171.00_seconds.png",
+        "audio": "frames/audio_at_171.00_seconds.wav",
+        "transcription": "nothing"
+    },
+    {
+        "timestamp": 174.0,
+        "frame": "frames/frame_at_174.00_seconds.png",
+        "audio": "frames/audio_at_174.00_seconds.wav",
+        "transcription": "too much in the upstairs"
+    },
+    {
+        "timestamp": 177.0,
+        "frame": "frames/frame_at_177.00_seconds.png",
+        "audio": "frames/audio_at_177.00_seconds.wav",
+        "transcription": "stop stream except for a few towels"
+    },
+    {
+        "timestamp": 180.0,
+        "frame": "frames/frame_at_180.00_seconds.png",
+        "audio": "frames/audio_at_180.00_seconds.wav",
+        "transcription": "three white tails there"
+    },
+    {
+        "timestamp": 183.0,
+        "frame": "frames/frame_at_183.00_seconds.png",
+        "audio": "frames/audio_at_183.00_seconds.wav",
+        "transcription": "and then if we keep going"
+    },
+    {
+        "timestamp": 186.0,
+        "frame": "frames/frame_at_186.00_seconds.png",
+        "audio": "frames/audio_at_186.00_seconds.wav",
+        "transcription": "so this is bedroom number two"
+    },
+    {
+        "timestamp": 189.0,
+        "frame": "frames/frame_at_189.00_seconds.png",
+        "audio": "frames/audio_at_189.00_seconds.wav",
+        "transcription": "the one with the sliding doors"
+    },
+    {
+        "timestamp": 192.0,
+        "frame": "frames/frame_at_192.00_seconds.png",
+        "audio": "frames/audio_at_192.00_seconds.wav",
+        "transcription": "so we can see there"
+    },
+    {
+        "timestamp": 195.0,
+        "frame": "frames/frame_at_195.00_seconds.png",
+        "audio": "frames/audio_at_195.00_seconds.wav",
+        "transcription": "sliding door so we have a queen bed here"
+    },
+    {
+        "timestamp": 198.0,
+        "frame": "frames/frame_at_198.00_seconds.png",
+        "audio": "frames/audio_at_198.00_seconds.wav",
+        "transcription": "we have two white bedside tables"
+    },
+    {
+        "timestamp": 201.0,
+        "frame": "frames/frame_at_201.00_seconds.png",
+        "audio": "frames/audio_at_201.00_seconds.wav",
+        "transcription": "to White lamps the same thing"
+    },
+    {
+        "timestamp": 204.0,
+        "frame": "frames/frame_at_204.00_seconds.png",
+        "audio": "frames/audio_at_204.00_seconds.wav",
+        "transcription": "turn on pot plant then we have a photo"
+    },
+    {
+        "timestamp": 207.0,
+        "frame": "frames/frame_at_207.00_seconds.png",
+        "audio": "frames/audio_at_207.00_seconds.wav",
+        "transcription": "you're with a couple of triangles on it and if"
+    },
+    {
+        "timestamp": 210.0,
+        "frame": "frames/frame_at_210.00_seconds.png",
+        "audio": "frames/audio_at_210.00_seconds.wav",
+        "transcription": "come into this cupboard we open this"
+    },
+    {
+        "timestamp": 213.0,
+        "frame": "frames/frame_at_213.00_seconds.png",
+        "audio": "frames/audio_at_213.00_seconds.wav",
+        "transcription": "there's a flat screen TV"
+    },
+    {
+        "timestamp": 216.0,
+        "frame": "frames/frame_at_216.00_seconds.png",
+        "audio": "frames/audio_at_216.00_seconds.wav",
+        "transcription": "this is in bedroom"
+    },
+    {
+        "timestamp": 219.0,
+        "frame": "frames/frame_at_219.00_seconds.png",
+        "audio": "frames/audio_at_219.00_seconds.wav",
+        "transcription": "number two is a Bose soundbar"
+    },
+    {
+        "timestamp": 222.0,
+        "frame": "frames/frame_at_222.00_seconds.png",
+        "audio": "frames/audio_at_222.00_seconds.wav",
+        "transcription": "so the flat screen TV is about 65 in"
+    },
+    {
+        "timestamp": 225.0,
+        "frame": "frames/frame_at_225.00_seconds.png",
+        "audio": "frames/audio_at_225.00_seconds.wav",
+        "transcription": "so you want to keep track of that"
+    },
+    {
+        "timestamp": 228.0,
+        "frame": "frames/frame_at_228.00_seconds.png",
+        "audio": "frames/audio_at_228.00_seconds.wav",
+        "transcription": "we have another TV unit up here"
+    },
+    {
+        "timestamp": 231.0,
+        "frame": "frames/frame_at_231.00_seconds.png",
+        "audio": "frames/audio_at_231.00_seconds.wav",
+        "transcription": "we have another TV unit up here"
+    },
+    {
+        "timestamp": 234.0,
+        "frame": "frames/frame_at_234.00_seconds.png",
+        "audio": "frames/audio_at_234.00_seconds.wav",
+        "transcription": "we have another TV unit up here"
+    },
+    {
+        "timestamp": 237.0,
+        "frame": "frames/frame_at_237.00_seconds.png",
+        "audio": "frames/audio_at_237.00_seconds.wav",
+        "transcription": "keep the camera rolling"
+    },
+    {
+        "timestamp": 240.0,
+        "frame": "frames/frame_at_240.00_seconds.png",
+        "audio": "frames/audio_at_240.00_seconds.wav",
+        "transcription": "keep the camera rolling"
+    },
+    {
+        "timestamp": 243.0,
+        "frame": "frames/frame_at_243.00_seconds.png",
+        "audio": "frames/audio_at_243.00_seconds.wav",
+        "transcription": "can we go into bedroom number three"
+    },
+    {
+        "timestamp": 246.0,
+        "frame": "frames/frame_at_246.00_seconds.png",
+        "audio": "frames/audio_at_246.00_seconds.wav",
+        "transcription": "can we go into bedroom number three"
+    },
+    {
+        "timestamp": 249.0,
+        "frame": "frames/frame_at_249.00_seconds.png",
+        "audio": "frames/audio_at_249.00_seconds.wav",
+        "transcription": "bedside tables to bedside lamps"
+    },
+    {
+        "timestamp": 252.0,
+        "frame": "frames/frame_at_252.00_seconds.png",
+        "audio": "frames/audio_at_252.00_seconds.wav",
+        "transcription": "play tables let me have a photo frame here"
+    },
+    {
+        "timestamp": 255.0,
+        "frame": "frames/frame_at_255.00_seconds.png",
+        "audio": "frames/audio_at_255.00_seconds.wav",
+        "transcription": "the beach on it then if we open up"
+    },
+    {
+        "timestamp": 258.0,
+        "frame": "frames/frame_at_258.00_seconds.png",
+        "audio": "frames/audio_at_258.00_seconds.wav",
+        "transcription": "the beach on it then if we open up"
+    },
+    {
+        "timestamp": 261.0,
+        "frame": "frames/frame_at_261.00_seconds.png",
+        "audio": "frames/audio_at_261.00_seconds.wav",
+        "transcription": "except for a printer it's a p"
+    },
+    {
+        "timestamp": 264.0,
+        "frame": "frames/frame_at_264.00_seconds.png",
+        "audio": "frames/audio_at_264.00_seconds.wav",
+        "transcription": "Canon"
+    },
+    {
+        "timestamp": 267.0,
+        "frame": "frames/frame_at_267.00_seconds.png",
+        "audio": "frames/audio_at_267.00_seconds.wav",
+        "transcription": "so we'll keep track of that on the"
+    },
+    {
+        "timestamp": 270.0,
+        "frame": "frames/frame_at_270.00_seconds.png",
+        "audio": "frames/audio_at_270.00_seconds.wav",
+        "transcription": "volume three and let's see if there's anything in here"
+    },
+    {
+        "timestamp": 273.0,
+        "frame": "frames/frame_at_273.00_seconds.png",
+        "audio": "frames/audio_at_273.00_seconds.wav",
+        "transcription": "nothing in here"
+    },
+    {
+        "timestamp": 276.0,
+        "frame": "frames/frame_at_276.00_seconds.png",
+        "audio": "frames/audio_at_276.00_seconds.wav",
+        "transcription": "then that's bedroom number three"
+    },
+    {
+        "timestamp": 279.0,
+        "frame": "frames/frame_at_279.00_seconds.png",
+        "audio": "frames/audio_at_279.00_seconds.wav",
+        "transcription": "in the top of the stairs"
+    },
+    {
+        "timestamp": 282.0,
+        "frame": "frames/frame_at_282.00_seconds.png",
+        "audio": "frames/audio_at_282.00_seconds.wav",
+        "transcription": "in the top of the stairs"
+    },
+    {
+        "timestamp": 285.0,
+        "frame": "frames/frame_at_285.00_seconds.png",
+        "audio": "frames/audio_at_285.00_seconds.wav",
+        "transcription": "louder so we'll keep track of that"
+    },
+    {
+        "timestamp": 288.0,
+        "frame": "frames/frame_at_288.00_seconds.png",
+        "audio": "frames/audio_at_288.00_seconds.wav",
+        "transcription": "that's otherwise empty and"
+    },
+    {
+        "timestamp": 291.0,
+        "frame": "frames/frame_at_291.00_seconds.png",
+        "audio": "frames/audio_at_291.00_seconds.wav",
+        "transcription": "we have the master bedroom which has a"
+    },
+    {
+        "timestamp": 294.0,
+        "frame": "frames/frame_at_294.00_seconds.png",
+        "audio": "frames/audio_at_294.00_seconds.wav",
+        "transcription": "add two white bedside tables"
+    },
+    {
+        "timestamp": 297.0,
+        "frame": "frames/frame_at_297.00_seconds.png",
+        "audio": "frames/audio_at_297.00_seconds.wav",
+        "transcription": "play the metal frame we have two lamps the"
+    },
+    {
+        "timestamp": 300.0,
+        "frame": "frames/frame_at_300.00_seconds.png",
+        "audio": "frames/audio_at_300.00_seconds.wav",
+        "transcription": "cane lamps and then one"
+    },
+    {
+        "timestamp": 303.0,
+        "frame": "frames/frame_at_303.00_seconds.png",
+        "audio": "frames/audio_at_303.00_seconds.wav",
+        "transcription": "I guess you would call that a"
+    },
+    {
+        "timestamp": 306.0,
+        "frame": "frames/frame_at_306.00_seconds.png",
+        "audio": "frames/audio_at_306.00_seconds.wav",
+        "transcription": "you're a chair lounge chair"
+    },
+    {
+        "timestamp": 309.0,
+        "frame": "frames/frame_at_309.00_seconds.png",
+        "audio": "frames/audio_at_309.00_seconds.wav",
+        "transcription": "do we have anything in the cupboards up here"
+    },
+    {
+        "timestamp": 312.0,
+        "frame": "frames/frame_at_312.00_seconds.png",
+        "audio": "frames/audio_at_312.00_seconds.wav",
+        "transcription": "do we have anything in the cupboards up here"
+    },
+    {
+        "timestamp": 315.0,
+        "frame": "frames/frame_at_315.00_seconds.png",
+        "audio": "frames/audio_at_315.00_seconds.wav",
+        "transcription": "play some betting and linen and stuff like that"
+    },
+    {
+        "timestamp": 318.0,
+        "frame": "frames/frame_at_318.00_seconds.png",
+        "audio": "frames/audio_at_318.00_seconds.wav",
+        "transcription": "now the air conditioning units"
+    },
+    {
+        "timestamp": 321.0,
+        "frame": "frames/frame_at_321.00_seconds.png",
+        "audio": "frames/audio_at_321.00_seconds.wav",
+        "transcription": "does an air conditioning unit in"
+    },
+    {
+        "timestamp": 324.0,
+        "frame": "frames/frame_at_324.00_seconds.png",
+        "audio": "frames/audio_at_324.00_seconds.wav",
+        "transcription": "in every major room of the house and the brand"
+    },
+    {
+        "timestamp": 327.0,
+        "frame": "frames/frame_at_327.00_seconds.png",
+        "audio": "frames/audio_at_327.00_seconds.wav",
+        "transcription": "I believe they're all Panasonic inverter"
+    },
+    {
+        "timestamp": 330.0,
+        "frame": "frames/frame_at_330.00_seconds.png",
+        "audio": "frames/audio_at_330.00_seconds.wav",
+        "transcription": "I believe they're all Panasonic inverter"
+    },
+    {
+        "timestamp": 333.0,
+        "frame": "frames/frame_at_333.00_seconds.png",
+        "audio": "frames/audio_at_333.00_seconds.wav",
+        "transcription": "and then if we come in here there's nothing"
+    },
+    {
+        "timestamp": 336.0,
+        "frame": "frames/frame_at_336.00_seconds.png",
+        "audio": "frames/audio_at_336.00_seconds.wav",
+        "transcription": "flight to keep track of in"
+    },
+    {
+        "timestamp": 339.0,
+        "frame": "frames/frame_at_339.00_seconds.png",
+        "audio": "frames/audio_at_339.00_seconds.wav",
+        "transcription": "master room except for some clothes in the"
+    },
+    {
+        "timestamp": 342.0,
+        "frame": "frames/frame_at_342.00_seconds.png",
+        "audio": "frames/audio_at_342.00_seconds.wav",
+        "transcription": "wardrobe so that's"
+    },
+    {
+        "timestamp": 345.0,
+        "frame": "frames/frame_at_345.00_seconds.png",
+        "audio": "frames/audio_at_345.00_seconds.wav",
+        "transcription": "I walked through the house and we"
+    },
+    {
+        "timestamp": 348.0,
+        "frame": "frames/frame_at_348.00_seconds.png",
+        "audio": "frames/audio_at_348.00_seconds.wav",
+        "transcription": "I want to keep track of all the major pieces of furniture"
+    },
+    {
+        "timestamp": 351.0,
+        "frame": "frames/frame_at_351.00_seconds.png",
+        "audio": "frames/audio_at_351.00_seconds.wav",
+        "transcription": "so that we can add them to our"
+    },
+    {
+        "timestamp": 354.0,
+        "frame": "frames/frame_at_354.00_seconds.png",
+        "audio": "frames/audio_at_354.00_seconds.wav",
+        "transcription": "contents insurance"
+    },
+    {
+        "timestamp": 357.0,
+        "frame": "frames/frame_at_357.00_seconds.png",
+        "audio": "frames/audio_at_357.00_seconds.wav",
+        "transcription": "I almost forgot the garage so this is going to be St"
+    },
+    {
+        "timestamp": 360.0,
+        "frame": "frames/frame_at_360.00_seconds.png",
+        "audio": "frames/audio_at_360.00_seconds.wav",
+        "transcription": "the garage is"
+    },
+    {
+        "timestamp": 363.0,
+        "frame": "frames/frame_at_363.00_seconds.png",
+        "audio": "frames/audio_at_363.00_seconds.wav",
+        "transcription": "next to the front door so there's"
+    },
+    {
+        "timestamp": 366.0,
+        "frame": "frames/frame_at_366.00_seconds.png",
+        "audio": "frames/audio_at_366.00_seconds.wav",
+        "transcription": "come into the garage"
+    },
+    {
+        "timestamp": 369.0,
+        "frame": "frames/frame_at_369.00_seconds.png",
+        "audio": "frames/audio_at_369.00_seconds.wav",
+        "transcription": "I want to keep track of all the furniture in here so we've"
+    },
+    {
+        "timestamp": 372.0,
+        "frame": "frames/frame_at_372.00_seconds.png",
+        "audio": "frames/audio_at_372.00_seconds.wav",
+        "transcription": "what rack with the weightlifting bar"
+    },
+    {
+        "timestamp": 375.0,
+        "frame": "frames/frame_at_375.00_seconds.png",
+        "audio": "frames/audio_at_375.00_seconds.wav",
+        "transcription": "we've got some speakers here"
+    },
+    {
+        "timestamp": 378.0,
+        "frame": "frames/frame_at_378.00_seconds.png",
+        "audio": "frames/audio_at_378.00_seconds.wav",
+        "transcription": "what's a couple of them throughout the house at least 4 Sonos speakers"
+    },
+    {
+        "timestamp": 381.0,
+        "frame": "frames/frame_at_381.00_seconds.png",
+        "audio": "frames/audio_at_381.00_seconds.wav",
+        "transcription": "and then we have some weights so"
+    },
+    {
+        "timestamp": 384.0,
+        "frame": "frames/frame_at_384.00_seconds.png",
+        "audio": "frames/audio_at_384.00_seconds.wav",
+        "transcription": "is 3 kettlebells and in"
+    },
+    {
+        "timestamp": 387.0,
+        "frame": "frames/frame_at_387.00_seconds.png",
+        "audio": "frames/audio_at_387.00_seconds.wav",
+        "transcription": "dumbbells all have different weights there"
+    },
+    {
+        "timestamp": 390.0,
+        "frame": "frames/frame_at_390.00_seconds.png",
+        "audio": "frames/audio_at_390.00_seconds.wav",
+        "transcription": "dumbbells all have different weights there"
+    },
+    {
+        "timestamp": 393.0,
+        "frame": "frames/frame_at_393.00_seconds.png",
+        "audio": "frames/audio_at_393.00_seconds.wav",
+        "transcription": "is a 20 kilos greener"
+    },
+    {
+        "timestamp": 396.0,
+        "frame": "frames/frame_at_396.00_seconds.png",
+        "audio": "frames/audio_at_396.00_seconds.wav",
+        "transcription": "kilos and the grey are"
+    },
+    {
+        "timestamp": 399.0,
+        "frame": "frames/frame_at_399.00_seconds.png",
+        "audio": "frames/audio_at_399.00_seconds.wav",
+        "transcription": "close and then we've got two more 20 kilo"
+    },
+    {
+        "timestamp": 402.0,
+        "frame": "frames/frame_at_402.00_seconds.png",
+        "audio": "frames/audio_at_402.00_seconds.wav",
+        "transcription": "channel 5 kilo plates we have"
+    },
+    {
+        "timestamp": 405.0,
+        "frame": "frames/frame_at_405.00_seconds.png",
+        "audio": "frames/audio_at_405.00_seconds.wav",
+        "transcription": "40 kilo medicine ball and a 15"
+    },
+    {
+        "timestamp": 408.0,
+        "frame": "frames/frame_at_408.00_seconds.png",
+        "audio": "frames/audio_at_408.00_seconds.wav",
+        "transcription": "what are some ball and that's a 30"
+    },
+    {
+        "timestamp": 411.0,
+        "frame": "frames/frame_at_411.00_seconds.png",
+        "audio": "frames/audio_at_411.00_seconds.wav",
+        "transcription": "kg weight bag and"
+    },
+    {
+        "timestamp": 414.0,
+        "frame": "frames/frame_at_414.00_seconds.png",
+        "audio": "frames/audio_at_414.00_seconds.wav",
+        "transcription": "then we have a bench press here"
+    },
+    {
+        "timestamp": 417.0,
+        "frame": "frames/frame_at_417.00_seconds.png",
+        "audio": "frames/audio_at_417.00_seconds.wav",
+        "transcription": "in this bag is a MacBook Pro"
+    },
+    {
+        "timestamp": 420.0,
+        "frame": "frames/frame_at_420.00_seconds.png",
+        "audio": "frames/audio_at_420.00_seconds.wav",
+        "transcription": "so in this screen bag"
+    },
+    {
+        "timestamp": 423.0,
+        "frame": "frames/frame_at_423.00_seconds.png",
+        "audio": "frames/audio_at_423.00_seconds.wav",
+        "transcription": "add that to the inventory as well because that's a really important"
+    },
+    {
+        "timestamp": 426.0,
+        "frame": "frames/frame_at_426.00_seconds.png",
+        "audio": "frames/audio_at_426.00_seconds.wav",
+        "transcription": "furniture and then if we come out side of the"
+    },
+    {
+        "timestamp": 429.0,
+        "frame": "frames/frame_at_429.00_seconds.png",
+        "audio": "frames/audio_at_429.00_seconds.wav",
+        "transcription": "we have"
+    },
+    {
+        "timestamp": 432.0,
+        "frame": "frames/frame_at_432.00_seconds.png",
+        "audio": "frames/audio_at_432.00_seconds.wav",
+        "transcription": "we have"
+    },
+    {
+        "timestamp": 435.0,
+        "frame": "frames/frame_at_435.00_seconds.png",
+        "audio": "frames/audio_at_435.00_seconds.wav",
+        "transcription": "a couple of bikes here so to Norco"
+    },
+    {
+        "timestamp": 438.0,
+        "frame": "frames/frame_at_438.00_seconds.png",
+        "audio": "frames/audio_at_438.00_seconds.wav",
+        "transcription": "bikes add them to the insurance"
+    },
+    {
+        "timestamp": 441.0,
+        "frame": "frames/frame_at_441.00_seconds.png",
+        "audio": "frames/audio_at_441.00_seconds.wav",
+        "transcription": "and then what we're here"
+    },
+    {
+        "timestamp": 444.0,
+        "frame": "frames/frame_at_444.00_seconds.png",
+        "audio": "frames/audio_at_444.00_seconds.wav",
+        "transcription": "also go to the backyard and just get the whole house"
+    },
+    {
+        "timestamp": 447.0,
+        "frame": "frames/frame_at_447.00_seconds.png",
+        "audio": "frames/audio_at_447.00_seconds.wav",
+        "transcription": "also go to the backyard and just get the whole house"
+    },
+    {
+        "timestamp": 450.0,
+        "frame": "frames/frame_at_450.00_seconds.png",
+        "audio": "frames/audio_at_450.00_seconds.wav",
+        "transcription": "to the outdoor area"
+    },
+    {
+        "timestamp": 453.0,
+        "frame": "frames/frame_at_453.00_seconds.png",
+        "audio": "frames/audio_at_453.00_seconds.wav",
+        "transcription": "we have one outdoor table"
+    },
+    {
+        "timestamp": 456.0,
+        "frame": "frames/frame_at_456.00_seconds.png",
+        "audio": "frames/audio_at_456.00_seconds.wav",
+        "transcription": "we have two small outdoor"
+    },
+    {
+        "timestamp": 459.0,
+        "frame": "frames/frame_at_459.00_seconds.png",
+        "audio": "frames/audio_at_459.00_seconds.wav",
+        "transcription": "armchairs we have a stainless steel"
+    },
+    {
+        "timestamp": 462.0,
+        "frame": "frames/frame_at_462.00_seconds.png",
+        "audio": "frames/audio_at_462.00_seconds.wav",
+        "transcription": "put Ziegler and Brown BBQ that's worth"
+    },
+    {
+        "timestamp": 465.0,
+        "frame": "frames/frame_at_465.00_seconds.png",
+        "audio": "frames/audio_at_465.00_seconds.wav",
+        "transcription": "what's $3,000 we have a Samsung"
+    },
+    {
+        "timestamp": 468.0,
+        "frame": "frames/frame_at_468.00_seconds.png",
+        "audio": "frames/audio_at_468.00_seconds.wav",
+        "transcription": "single door fridge over there in the corner"
+    },
+    {
+        "timestamp": 471.0,
+        "frame": "frames/frame_at_471.00_seconds.png",
+        "audio": "frames/audio_at_471.00_seconds.wav",
+        "transcription": "and then we have a"
+    },
+    {
+        "timestamp": 474.0,
+        "frame": "frames/frame_at_474.00_seconds.png",
+        "audio": "frames/audio_at_474.00_seconds.wav",
+        "transcription": "outdoor furniture piece setting here"
+    },
+    {
+        "timestamp": 477.0,
+        "frame": "frames/frame_at_477.00_seconds.png",
+        "audio": "frames/audio_at_477.00_seconds.wav",
+        "transcription": "$3,000 or so worth this table here"
+    },
+    {
+        "timestamp": 480.0,
+        "frame": "frames/frame_at_480.00_seconds.png",
+        "audio": "frames/audio_at_480.00_seconds.wav",
+        "transcription": "and then we have an outdoor 3-seater loun"
+    },
+    {
+        "timestamp": 483.0,
+        "frame": "frames/frame_at_483.00_seconds.png",
+        "audio": "frames/audio_at_483.00_seconds.wav",
+        "transcription": "and then we have an outdoor 3-seater loun"
+    },
+    {
+        "timestamp": 486.0,
+        "frame": "frames/frame_at_486.00_seconds.png",
+        "audio": "frames/audio_at_486.00_seconds.wav",
+        "transcription": "make sure we keep track of all these different items here"
+    },
+    {
+        "timestamp": 489.0,
+        "frame": "frames/frame_at_489.00_seconds.png",
+        "audio": "frames/audio_at_489.00_seconds.wav",
+        "transcription": "outdoor seater lounge dining big"
+    },
+    {
+        "timestamp": 492.0,
+        "frame": "frames/frame_at_492.00_seconds.png",
+        "audio": "frames/audio_at_492.00_seconds.wav",
+        "transcription": "level two armchairs Samsung"
+    },
+    {
+        "timestamp": 495.0,
+        "frame": "frames/frame_at_495.00_seconds.png",
+        "audio": "frames/audio_at_495.00_seconds.wav",
+        "transcription": "and a stainless steel"
+    },
+    {
+        "timestamp": 498.0,
+        "frame": "frames/frame_at_498.00_seconds.png",
+        "audio": "frames/audio_at_498.00_seconds.wav",
+        "transcription": "5 burner leave it to 5 burner barbecue"
+    },
+    {
+        "timestamp": 501.0,
+        "frame": "frames/frame_at_501.00_seconds.png",
+        "audio": "frames/audio_at_501.00_seconds.wav",
+        "transcription": "bye Ziggler and brown and then"
+    },
+    {
+        "timestamp": 504.0,
+        "frame": "frames/frame_at_504.00_seconds.png",
+        "audio": "frames/audio_at_504.00_seconds.wav",
+        "transcription": "few outdoor seats here if we go right to"
+    },
+    {
+        "timestamp": 507.0,
+        "frame": "frames/frame_at_507.00_seconds.png",
+        "audio": "frames/audio_at_507.00_seconds.wav",
+        "transcription": "we'll just get the"
+    },
+    {
+        "timestamp": 510.0,
+        "frame": "frames/frame_at_510.00_seconds.png",
+        "audio": "frames/audio_at_510.00_seconds.wav",
+        "transcription": "piece of The Toolshed"
+    },
+    {
+        "timestamp": 513.0,
+        "frame": "frames/frame_at_513.00_seconds.png",
+        "audio": "frames/audio_at_513.00_seconds.wav",
+        "transcription": "is at the back of the house behind the pool"
+    },
+    {
+        "timestamp": 516.0,
+        "frame": "frames/frame_at_516.00_seconds.png",
+        "audio": "frames/audio_at_516.00_seconds.wav",
+        "transcription": "we open up The Toolshed only a handful of things in here"
+    },
+    {
+        "timestamp": 519.0,
+        "frame": "frames/frame_at_519.00_seconds.png",
+        "audio": "frames/audio_at_519.00_seconds.wav",
+        "transcription": "but we still want to keep note of them"
+    },
+    {
+        "timestamp": 522.0,
+        "frame": "frames/frame_at_522.00_seconds.png",
+        "audio": "frames/audio_at_522.00_seconds.wav",
+        "transcription": "we have a Ryobi electric mower"
+    },
+    {
+        "timestamp": 525.0,
+        "frame": "frames/frame_at_525.00_seconds.png",
+        "audio": "frames/audio_at_525.00_seconds.wav",
+        "transcription": "that's about $500 worth"
+    },
+    {
+        "timestamp": 528.0,
+        "frame": "frames/frame_at_528.00_seconds.png",
+        "audio": "frames/audio_at_528.00_seconds.wav",
+        "transcription": "then we have a Makita"
+    },
+    {
+        "timestamp": 531.0,
+        "frame": "frames/frame_at_531.00_seconds.png",
+        "audio": "frames/audio_at_531.00_seconds.wav",
+        "transcription": "whipper snipper and a Ryobi edge trimmer"
+    },
+    {
+        "timestamp": 534.0,
+        "frame": "frames/frame_at_534.00_seconds.png",
+        "audio": "frames/audio_at_534.00_seconds.wav",
+        "transcription": "they're both about 200 AUD each"
+    },
+    {
+        "timestamp": 537.0,
+        "frame": "frames/frame_at_537.00_seconds.png",
+        "audio": "frames/audio_at_537.00_seconds.wav",
+        "transcription": "and then a Ryobi leaf blower which is"
+    },
+    {
+        "timestamp": 540.0,
+        "frame": "frames/frame_at_540.00_seconds.png",
+        "audio": "frames/audio_at_540.00_seconds.wav",
+        "transcription": "play about 200 AUD"
+    },
+    {
+        "timestamp": 543.0,
+        "frame": "frames/frame_at_543.00_seconds.png",
+        "audio": "frames/audio_at_543.00_seconds.wav",
+        "transcription": "and the rest of the stuff in here a few tools"
+    },
+    {
+        "timestamp": 546.0,
+        "frame": "frames/frame_at_546.00_seconds.png",
+        "audio": "frames/audio_at_546.00_seconds.wav",
+        "transcription": "tell me a collection of tools maybe the tools Alto"
+    },
+    {
+        "timestamp": 549.0,
+        "frame": "frames/frame_at_549.00_seconds.png",
+        "audio": "frames/audio_at_549.00_seconds.wav",
+        "transcription": "will be about 500 AUD so"
+    },
+    {
+        "timestamp": 552.0,
+        "frame": "frames/frame_at_552.00_seconds.png",
+        "audio": "frames/audio_at_552.00_seconds.wav",
+        "transcription": "that's the that's the house"
+    },
+    {
+        "timestamp": 555.0,
+        "frame": "frames/frame_at_555.00_seconds.png",
+        "audio": "frames/audio_at_555.00_seconds.wav",
+        "transcription": "keep all of those things tracked so"
+    },
+    {
+        "timestamp": 558.0,
+        "frame": "frames/frame_at_558.00_seconds.png",
+        "audio": "frames/audio_at_558.00_seconds.wav",
+        "transcription": "we can update our home insurance Pollock"
+    },
+    {
+        "timestamp": 561.0,
+        "frame": "frames/frame_at_561.00_seconds.png",
+        "audio": "frames/audio_at_561.00_seconds.wav",
+        "transcription": "we can update our home insurance Pollock"
+    }
+]
